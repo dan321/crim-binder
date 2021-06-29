@@ -17,3 +17,4 @@ rfc3986==1.4.0
 six==1.15.0
 sniffio==1.2.0
 webcolors==1.11.1
+altair
